@@ -1,4 +1,9 @@
+package com.test;
+
 import org.junit.Test;
+
+import com.test.Library;
+
 import static org.junit.Assert.*;
 
 /*
